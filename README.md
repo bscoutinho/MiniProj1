@@ -1,5 +1,12 @@
 # miniproj1
 
+## Description
+
+MEIW - [22285_21_01] Programação Web Avançada 2021
+Tarefa 2.2: Miniprojeto: Single Page Application (SPA)
+
+Techs: Vue3; Vue-router4;
+
 ## Project setup
 ```
 npm install
