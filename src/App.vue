@@ -6,6 +6,9 @@
     <router-link :to="{ name: 'Hobbies' }">Hobbies</router-link> |
   </div>
   <router-view/>
+  <footer>
+    <h3>Footer</h3>
+  </footer>
 </template>
 
 <style>
