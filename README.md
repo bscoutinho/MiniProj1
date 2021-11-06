@@ -8,7 +8,7 @@
 
 ## Wireframe
 
-Wireframe do projeto da pasta src com o nome wireframe.png
+Wireframe do projeto consta na raiz do repositório com o nome wireframe.png
 
 ## Project setup
 ```
