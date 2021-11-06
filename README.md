@@ -6,6 +6,10 @@
 ### Tarefa 2.2: Miniprojeto: Single Page Application (SPA)
 ### Techs: Vue3; Vue-router4;
 
+## Wireframe
+
+Wireframe do projeto da pasta src com o nome wireframe.png
+
 ## Project setup
 ```
 npm install

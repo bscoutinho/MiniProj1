@@ -9,10 +9,10 @@
   <footer id="footer">
     <h3>Minhas redes:</h3>
     <div class="socialpanel">
-      <a href="https://www.google.com"><img src="./assets/github.png" class="socialmedia" alt="github" title="Github"></a>
-      <a href="https://www.google.com"><img src="./assets/linkedin.png" class="socialmedia" alt="linkedin" title="Linkedin"></a>
-      <a href="https://www.google.com"><img src="./assets/udemy.png" class="socialmedia" alt="linkedin" title="Udemy"></a>
-      <a href="https://www.google.com"><img src="./assets/web.png" class="socialmedia" alt="site" title="Site"></a>
+      <a href="https://github.com/bscoutinho"><img src="./assets/github.png" class="socialmedia" alt="github" title="Github"></a>
+      <a href="https://www.linkedin.com/in/bscoutinho/"><img src="./assets/linkedin.png" class="socialmedia" alt="linkedin" title="Linkedin"></a>
+      <a href="https://www.udemy.com/user/brunocoutinho3/"><img src="./assets/udemy.png" class="socialmedia" alt="linkedin" title="Udemy"></a>
+      <a href="https://bscoutinho.github.io/"><img src="./assets/web.png" class="socialmedia" alt="site" title="Site"></a>
     </div>
   </footer>
 </template>
