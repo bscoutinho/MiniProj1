@@ -25,7 +25,7 @@ const routes = [
     name: 'Hobbies',
     component: () => import('../views/Hobbies.vue')
   },
-  //catchall 404
+  //catchall redirect
   {
     path: '/:catchAll(.*)',
     name: 'NotFound',
